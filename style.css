@@ -34,3 +34,33 @@ section{
     background-repeat: no-repeat;
 
 }
+.full-width{
+    width: 50%;
+    padding-right: 5%;
+    margin: 50px;
+
+}
+.full-width img{
+    width: 70%;
+    padding-left: 10%;
+}
+.orange-color{
+    color: orange;
+}
+section{
+        display: flex;
+    }
+.resume-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
